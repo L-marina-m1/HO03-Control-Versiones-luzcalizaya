@@ -1,0 +1,21 @@
+## 1. Descripción del caso práctico
+
+Una empresa de desarrollo de software presenta dificultades para organizar los archivos de sus proyectos y controlar los cambios realizados por los desarrolladores. La falta de un historial de versiones dificulta identificar las modificaciones y recuperar versiones anteriores.
+
+Para solucionar este problema, se implementará un repositorio en GitHub que permita organizar los archivos, registrar los cambios y trabajar de manera ordenada mediante ramas y solicitudes de integración.
+
+## 2. Objetivo del repositorio
+
+Implementar un sistema de control de versiones utilizando Git y GitHub para gestionar los archivos de un proyecto de software, registrar modificaciones mediante commits, trabajar con ramas y utilizar pull requests para revisar e integrar los cambios en la rama principal.
+
+## 3. Nombre y apellidos del estudiante
+
+**Estudiante:** luz marina calizaya choquehuanca.
+
+## 4. Herramientas utilizadas
+
+- **Git:** herramienta para controlar y registrar las versiones de los archivos.
+- **GitHub:** plataforma para alojar repositorios y colaborar en proyectos de software.
+- **Ramas:** permiten trabajar en modificaciones sin alterar directamente la versión principal.
+- **Commits:** registran los cambios realizados en los archivos.
+- **Pull Requests:** permiten revisar e integrar cambios entre ramas.
